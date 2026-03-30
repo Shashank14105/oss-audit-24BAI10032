@@ -1,0 +1,12 @@
+----------------------------------------
+        Open Source Manifesto
+----------------------------------------
+Author: SHASHANK KUMAR
+Date: 30 March 2026
+
+I regularly use Python as part of my daily workflow.
+To me, freedom means Availability of resources — the ability to learn, modify, and share without restriction.
+If given the opportunity, I would build an open platform where creators can share their movies freely and make it freely available to everyone.
+I believe open-source software empowers innovation, collaboration, and transparency in the digital world.
+
+----------------------------------------
