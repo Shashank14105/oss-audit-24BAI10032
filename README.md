@@ -51,7 +51,9 @@ oss-audit-[24BAI10032]/
 ### Script 2 — Python Package Inspector
 
 **File:** `script2.sh`
+
 **Description:** Checks whether Python is installed on the system, retrieves its version, and prints relevant package details. Also includes conditional logic to describe Python’s purpose.
+
 **Concepts Used:** `if-then-else`, `case` statement, `dpkg -l`, `grep`.
 
 ---
@@ -59,7 +61,9 @@ oss-audit-[24BAI10032]/
 ### Script 3 — Disk and Permission Auditor
 
 **File:** `script3.sh`
+
 **Description:** Iterates through important system directories (`/etc`, `/var/log`, `/home`, `/usr/bin`, `/tmp`) and displays their permissions, ownership, and disk usage. Also verifies the Python installation directory.
+
 **Concepts Used:** `for` loop, `du`, `ls -ld`, `awk`, `cut`.
 
 ---
@@ -67,7 +71,9 @@ oss-audit-[24BAI10032]/
 ### Script 4 — Log File Analyzer
 
 **File:** `script4.sh`
+
 **Description:** Reads a log file line by line, counts occurrences of a specified keyword (default: `error`), and prints a summary along with the last 5 matching lines.
+
 **Concepts Used:** `while read` loop, `if-then`, counter variables, command-line arguments (`$1`, `$2`), `grep`, `tail`.
 
 ---
@@ -75,7 +81,9 @@ oss-audit-[24BAI10032]/
 ### Script 5 — Open Source Manifesto Generator
 
 **File:** `script5.sh`
+
 **Description:** Interactively asks the user three questions and generates a personalized open-source philosophy statement. The output is saved to a `.txt` file named after the current user.
+
 **Concepts Used:** `read` for user input, string concatenation, file writing (`>` and `>>`), `date` command.
 
 ---
