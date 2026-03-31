@@ -41,7 +41,9 @@ oss-audit-[24BAI10032]/
 ### Script 1 — System Information Reporter
 
 **File:** `script1.sh`
+
 **Description:** Displays system details such as Linux distribution, kernel version, current user, uptime, memory usage, and date/time.
+
 **Concepts Used:** Variables, `echo`, command substitution (`$()`), basic Linux commands.
 
 ---
