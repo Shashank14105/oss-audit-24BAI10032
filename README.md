@@ -105,7 +105,7 @@ git clone https://github.com/Shashank14105/oss-audit-24BAI10032.git
 cd oss-audit-24BAI10032
 ```
 
----
+
 
 ### Step 2 — Make Scripts Executable
 
@@ -113,7 +113,7 @@ cd oss-audit-24BAI10032
 chmod +x *.sh
 ```
 
----
+
 
 ### Step 3 — Run Each Script
 
@@ -123,7 +123,7 @@ chmod +x *.sh
 ./script1.sh
 ```
 
----
+
 
 **Script 2 — Python Package Inspector**
 
@@ -131,7 +131,7 @@ chmod +x *.sh
 ./script2.sh
 ```
 
----
+
 
 **Script 3 — Disk Auditor**
 
@@ -139,7 +139,7 @@ chmod +x *.sh
 ./script3.sh
 ```
 
----
+
 
 **Script 4 — Log Analyzer**
 
@@ -151,7 +151,7 @@ chmod +x *.sh
 ./script4.sh /var/log/syslog warning
 ```
 
----
+
 
 **Script 5 — Manifesto Generator**
 
